@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+         <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8" />
+    <title>Nicholas Mensch Assignment 3 - Summary</title>
+</head>
+
+<body>
+<h1>Assignment 3 - Summary</h1>
+<p>
+Session 3
+<br>
+Activity- Review Mozilla: What is accessibility
+<br>
+This webpage on Mozilla Developer Network discusses the concept of accessibility in web development, emphasizing its significance in ensuring inclusivity and usability for all users, particularly those with disabilities. 
+It elucidates accessibility features such as screen readers and keyboard navigation, detailing their importance in enabling people with diverse abilities to access and interact with digital content.
+The page also underscores the legal and ethical imperatives of adhering to accessibility standards, advocating for developers to integrate accessibility practices into their workflows from the outset of the design and development process. 
+I can see myself using these guidelines to help better understand how to format my webpages to help those who need extra assistance with seeing, hearing etc. 
+<br>
+<br>
+Activity- Use the Paletton website to identify good color schemes. Experiment with monochromatic, adjacent-color, three-color, and four-color designs.
+<br>
+After using paletton and messing with the colors it gave me a good understanding of different colors and contrast, but I mainly used it for the colorblind modes so that way I can make sure my website designs will be nice. 
+Exploring Paletton proved invaluable in enhancing my comprehension of various color combinations and their impacts on visual contrast. 
+While experimenting with different hues, I particularly focused on utilizing its colorblind modes to ensure that my website designs remain visually appealing and accessible to individuals with color vision deficiencies. 
+This hands-on experience not only deepened my understanding of color theory but also reinforced the importance of considering diverse user needs in web development, fostering a commitment to inclusivity and usability within my design practices.
+<br>
+</body>
+</html>
